@@ -1,0 +1,6 @@
+* chứa rất nhiều thứ
+
+- file app : khi upload sẽ lên file app/public
+(Khi upload file lên app/public thì sẽ không đọc được)
+=> muốn đọc được phải tạo 1 shortcut tới public
+
